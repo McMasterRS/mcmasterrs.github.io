@@ -1,8 +1,8 @@
 ## About
 
-This repository is a landing page for McMaster Research Software Development workshops.  
+This repository is a landing page for McMaster Research Software Development learning modules and workshops.  
 
-View the main page here: [https://mcmasterrs.github.io/](https://mcmasterrs.github.io/) and a listing of all workshops here: [https://mcmasterrs.github.io/all.html](https://mcmasterrs.github.io/all.html).  
+View the main page here: [https://mcmasterrs.github.io/](https://mcmasterrs.github.io/) and a listing of all learning modules and workshops here: [https://mcmasterrs.github.io/all.html](https://mcmasterrs.github.io/all.html).  
 
 ## Code
 
