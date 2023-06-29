@@ -764,7 +764,7 @@ p {
 .has-images .menu-item:hover .menu-item-name {
   white-space: normal;
 }
-.has-images .menu-item-name+.menu-item-description, .has-images .menu-item-name+.business-info-address, .has-images .menu-item-name+.business-bio {
+.has-images, .has-images, .has-images {
   text-overflow: ellipsis;
 }
 .has-images .menu-item:hover .menu-item-name+.menu-item-description, .has-images .menu-item:hover .menu-item-name+.business-info-address, .has-images .menu-item:hover .menu-item-name+.business-bio {
