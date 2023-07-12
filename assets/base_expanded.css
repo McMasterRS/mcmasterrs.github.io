@@ -425,7 +425,7 @@ p {
   white-space: nowrap;
 }
 .summary-phone {
-  color: #959ba2;
+  color: #5b616b ;
 }
 .address-street {
   text-transform: capitalize;
@@ -772,7 +772,7 @@ p {
   white-space: normal;
 }
 .menu-item-description, .business-info-address, .business-bio {
-  color: #959ba2;
+  color: #5b616b ;
 }
 .has-images .menu-item-description, .has-images .business-info-address, .has-images .business-bio {
   overflow: hidden;
@@ -807,7 +807,7 @@ p {
   margin-top: 0.14286em;
 }
 .menu-item-variation {
-  color: #959ba2;
+  color: #5b616b ;
   font-style: italic;
 }
 .btn-view-full-menu {
@@ -892,7 +892,7 @@ p {
   clear: both;
 }
 .module-author-name {
-  color: #959ba2;
+  color: #5b616b ;
 }
 .module-thumbnail {
   float: left;
@@ -906,7 +906,7 @@ p {
   display: block;
 }
 .module-hours {
-  color: #959ba2;
+  color: #5b616b ;
 }
 .module-hours-today {
   color: #2d3c48;
@@ -1011,7 +1011,7 @@ p {
     display: none;
   }
   .summary-distance {
-    color: #959ba2;
+    color: #5b616b ;
     display: block;
     pointer-events: none;
   }
@@ -1277,7 +1277,7 @@ p {
     display: none;
   }
   .summary-distance {
-    color: #959ba2;
+    color: #5b616b ;
     display: block;
     pointer-events: none;
   }
