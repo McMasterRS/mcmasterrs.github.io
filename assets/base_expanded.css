@@ -1369,7 +1369,7 @@ p {
     overflow: hidden;
   }
   .menu-item-name {
-    white-space: nowrap;
+    white-space: normal;
   }
   .has-images .menu-item-name+.menu-item-description, .has-images .menu-item-name+.business-info-address, .has-images .menu-item-name+.business-bio {
     height: 20px;
