@@ -161,7 +161,7 @@ body.modal {
   overflow-y: hidden;
 }
 a {
-  color: #3e8cb7;
+  color: #3344dd;
   text-decoration: none;
 }
 button, input, textarea {
@@ -251,7 +251,7 @@ p {
   transition: color 0.3s ease;
 }
 .footer-navigation-item a:hover {
-  color: #3e8cb7;
+  color: #3344dd;
 }
 .copyright {
   white-space: nowrap;
@@ -813,7 +813,7 @@ p {
 .btn-view-full-menu {
   background: none;
   border: none;
-  color: #3e8cb7;
+  color: #3344dd;
   cursor: pointer;
   display: block;
   font-size: 14px;
