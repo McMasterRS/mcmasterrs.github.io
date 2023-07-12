@@ -760,8 +760,6 @@ p {
   margin-top: 0.07143em;
   margin-bottom: 0.07143em;
   overflow-wrap: break-word;
-  word-wrap: break-word;
-  hyphens: auto;
   width: 100%}
 .has-images .menu-item:hover .menu-item-name {
   white-space: normal;
